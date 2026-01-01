@@ -1,0 +1,15 @@
+{
+  "page_type": "product_page",
+  "data": {
+    "name": "GlowBoost Vitamin C Serum",
+    "concentration": "10% Vitamin C",
+    "benefits": [
+      "This product helps with brightening.",
+      "This product helps with fades dark spots."
+    ],
+    "usage": [
+      "Apply 2\u20133 drops in the morning before sunscreen"
+    ],
+    "price": "\u20b9699"
+  }
+}

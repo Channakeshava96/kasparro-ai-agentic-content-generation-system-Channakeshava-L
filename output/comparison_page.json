@@ -1,0 +1,28 @@
+{
+  "page_type": "comparison_page",
+  "comparison": {
+    "ingredients": {
+      "GlowBoost Vitamin C Serum": [
+        "Vitamin C",
+        "Hyaluronic Acid"
+      ],
+      "RadiancePlus Vitamin C Serum": [
+        "Vitamin C",
+        "Niacinamide"
+      ]
+    },
+    "benefits": {
+      "GlowBoost Vitamin C Serum": [
+        "Brightening",
+        "Fades dark spots"
+      ],
+      "RadiancePlus Vitamin C Serum": [
+        "Brightening"
+      ]
+    },
+    "price": {
+      "GlowBoost Vitamin C Serum": "\u20b9699",
+      "RadiancePlus Vitamin C Serum": "\u20b9899"
+    }
+  }
+}
